@@ -1,2 +1,6 @@
 # Super_market-Management-System
-A supermarket management application is a software solution designed to streamline the various operations of a supermarket, such as inventory management, sales tracking,  and customer service.
+In this python project, we will build a Super Market management system. It will be 3 tier application,
+
+Front end: UI is written in HTML/CSS/Javascript/Bootstrap
+Backend: Python and Flask
+Database: mysql
